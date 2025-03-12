@@ -1,7 +1,7 @@
-# Projeto Épi
+# App Athon
 
-### Plataforma Digital para Dispositivos Móveis da Faculdade Athon
-Bem-vindo ao repositório do **Projeto Épi**. O projeto visa propor a implementação de uma plataforma digital dedicada para dispositivos móveis que busca melhorar a experiência dos alunos da Faculdade Athon, oferecendo uma interface leve, prática e intuitiva.
+### Aplicativo para estudantes da Anhembi Morumbi - Campus Athon
+O projeto consiste em entregar uma plataforma mobile para estudantes do centro universitário Anhembi Morumbi - Campus Athon, com foco maior na experiência dos calouros, oferecendo uma interface leve, prática e intuitiva Este projeto está sendo desenvolvido como proposto pela disciplina de **Frameworks de Gestão de Projetos**, do Prof. Valdinei Castelan.
 
 ### Índice
 1. [Visão Geral](#visao-geral)
@@ -11,7 +11,7 @@ Bem-vindo ao repositório do **Projeto Épi**. O projeto visa propor a implement
 5. [Licença](#licenca)
 
 ## Visão Geral
-O **Projeto Épi** nasceu da necessidade de substituir a atual forma de acessar a plataforma web da faculdade Athon, que apresenta um design inconsistente e uma experiência de usuário lenta e confusa. Com a criação de um aplicativo dedicado para dispositivos móveis, queremos proporcionar uma solução moderna e eficiente para os estudantes, centralizando os serviços mais usados em um só lugar e com uma interface simples e fácil de usar.
+O **Aplicativo Athon** nasceu da necessidade de substituir a atual forma de acessar a plataforma web da faculdade Athon, que apresenta um design inconsistente e uma experiência de usuário lenta e confusa. Com a criação de um aplicativo dedicado para dispositivos móveis, queremos proporcionar uma solução moderna e eficiente para os estudantes, centralizando os serviços mais usados em um só lugar e com uma interface simples e fácil de usar.
 
 ## Objetivo do Projeto
 O objetivo principal do Projeto Épi é oferecer aos alunos da Athon uma **plataforma digital otimizada para dispositivos móveis**, que:
@@ -45,7 +45,6 @@ O desenvolvimento do **Projeto Épi** está sendo realizado por uma equipe colab
 - [**Rodrigo Frangel**](https://github.com/RodrigoFrangel)
 - [**Yuri de Oliveira**](https://github.com/YuriOliiv)
 - [**Rafael Dourado**](https://github.com/Douradorf)
-- **Kauê Fogaça**
 
 ## Licença
-Este projeto é de propriedade da **Athon™ Ensino Superior**. Todos os direitos autorais estão reservados.
+Este projeto é de propriedade de **House of Wizards™**. Todos os direitos autorais estão reservados.
